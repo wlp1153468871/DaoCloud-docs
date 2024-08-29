@@ -396,6 +396,7 @@ nav:
                   - 多云配置项: kairship/resource/configmap.md
                   - 多云密钥: kairship/resource/secret.md
                   - 多云路由: kairship/resource/ingress.md
+                  - 更新多云命名空间: kairship/resource/update-ns.md
                   - 更新多云服务: kairship/resource/update-service.md
                   - 更新多云密钥: kairship/resource/update-secret.md
                   - 更新多云配置项: kairship/resource/update-configmap.md
